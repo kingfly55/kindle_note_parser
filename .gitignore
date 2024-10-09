@@ -1,3 +1,9 @@
+# My ignores
+My Clippings.txt
+output.json
+processed_entries.json
+
+# github python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
