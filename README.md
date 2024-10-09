@@ -51,6 +51,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### Todo
 - Verify that notes are getting attached to the correct highlights
+- Add chapter indexing to notes and highlights
 
 ## License
 
